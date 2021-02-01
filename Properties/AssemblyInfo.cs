@@ -7,9 +7,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DebuggableInstallableService")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Scottrade")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DebuggableInstallableService")]
-[assembly: AssemblyCopyright("Copyright © Scottrade 2010")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
